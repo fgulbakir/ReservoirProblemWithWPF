@@ -1,0 +1,30 @@
+﻿<Window x:Class="JewelSuite.DesktopClient.Views.ReservoirView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:viewModels="clr-namespace:JewelSuite.DesktopClient.ViewModels"    
+        xmlns:enum="clr-namespace:JewelSuite.ServiceFoundation.Enum;assembly=JewelSuite.ServiceFoundation"
+        xmlns:converter="clr-namespace:JewelSuite.ServiceFoundation.Converter;assembly=JewelSuite.ServiceFoundation"
+        xmlns:helper="clr-namespace:JewelSuite.DesktopClient.Helper"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance viewModels:ReservoirViewModel,IsDesignTimeCreatable=True}"      
+        Title="ReservoirView" Height="560" Width="840"
+        ResizeMode="NoResize">
+
+        <Window.Resources>
+        <ResourceDictionary>
+            <ObjectDataProvider x:Key="FilterOptionsEnum" MethodName="GetValues" ObjectType="{x:Type sys:Enum}">
+                <ObjectDataProvider.MethodParameters>
+                    <x:Type TypeName="enum:FilterOptionsEnum" />
+                </ObjectDataProvider.MethodParameters>
+            </ObjectDataProvider>
+            <converter:EnumBindingConverter x:Key="enumBindingConverter"/>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    
+     
+   
+</Window>

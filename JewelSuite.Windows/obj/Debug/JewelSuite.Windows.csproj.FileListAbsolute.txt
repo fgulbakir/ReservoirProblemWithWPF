@@ -1,0 +1,11 @@
+D:\FGB\TASK\JewelSuite.Windows\bin\Debug\JewelSuite.Windows.dll.config
+D:\FGB\TASK\JewelSuite.Windows\bin\Debug\JewelSuite.Windows.dll
+D:\FGB\TASK\JewelSuite.Windows\bin\Debug\JewelSuite.Windows.pdb
+D:\FGB\TASK\JewelSuite.Windows\bin\Debug\EntityFramework.dll
+D:\FGB\TASK\JewelSuite.Windows\bin\Debug\EntityFramework.SqlServer.dll
+D:\FGB\TASK\JewelSuite.Windows\bin\Debug\EntityFramework.xml
+D:\FGB\TASK\JewelSuite.Windows\bin\Debug\EntityFramework.SqlServer.xml
+D:\FGB\TASK\JewelSuite.Windows\obj\Debug\JewelSuite.Windows.csproj.CoreCompileInputs.cache
+D:\FGB\TASK\JewelSuite.Windows\obj\Debug\JewelSuite.Windows.csproj.CopyComplete
+D:\FGB\TASK\JewelSuite.Windows\obj\Debug\JewelSuite.Windows.dll
+D:\FGB\TASK\JewelSuite.Windows\obj\Debug\JewelSuite.Windows.pdb

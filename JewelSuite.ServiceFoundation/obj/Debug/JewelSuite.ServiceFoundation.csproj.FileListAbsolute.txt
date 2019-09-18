@@ -1,0 +1,5 @@
+D:\FGB\TASK\JewelSuite.ServiceFoundation\bin\Debug\JewelSuite.ServiceFoundation.dll
+D:\FGB\TASK\JewelSuite.ServiceFoundation\bin\Debug\JewelSuite.ServiceFoundation.pdb
+D:\FGB\TASK\JewelSuite.ServiceFoundation\obj\Debug\JewelSuite.ServiceFoundation.csproj.CoreCompileInputs.cache
+D:\FGB\TASK\JewelSuite.ServiceFoundation\obj\Debug\JewelSuite.ServiceFoundation.dll
+D:\FGB\TASK\JewelSuite.ServiceFoundation\obj\Debug\JewelSuite.ServiceFoundation.pdb
